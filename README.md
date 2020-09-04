@@ -38,7 +38,7 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Elara-Discord-Bots&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Elara-Discord-Bots&theme=cobalt&show_icons=true&count_private=true&hide_border=true" />
 
 [npm:services]: https://npmjs.com/package/elara-services
 [npm:hook]: https://npmjs.com/package/elara-hook
