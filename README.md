@@ -35,6 +35,14 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [<img align="left" width="22px" title="Great-Commando | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:great]
 
 <br />
+---
+
+### Projects I help with 
+[<img align="left" width="22px" title="RCO - Roblox Case Opener | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/RCO.png?raw=true"/>][pro:rblx]
+[<img align="left" width="22px" title="MarksBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/MarksBot.png?raw=true"/>][pro:mb]
+[<img align="left" width="22px" title="GreenBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/GreenBot.png?raw=true"/>][pro:gb]
+
+<br />
 
 ---
 
@@ -52,3 +60,6 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [YouTube]: https://youtube.com/c/SUPERCHIEFYT
 [Discord]: https://superchiefyt.xyz/support
 [services]: https://services.superchiefyt.xyz
+[pro:rblx]: https://robloxcaseopener.xyz
+[pro:mb]: https://marksbot.mwserver.site
+[pro:gb]: https://greenbot.mwserver.site
