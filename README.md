@@ -60,7 +60,7 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [twitterSuper]: https://twitter.com/SUPERCHIEFYT
 [YouTube]: https://youtube.com/c/SUPERCHIEFYT
 [Discord]: https://superchiefyt.xyz/support
-[services]: https://services.superchiefyt.xyz
+[services]: https://my.elara.services
 [pro:rblx]: https://robloxcaseopener.xyz
 [pro:mb]: https://marksbot.mwserver.site
 [pro:gb]: https://greenbot.mwserver.site
