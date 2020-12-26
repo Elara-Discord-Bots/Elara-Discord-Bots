@@ -3,9 +3,6 @@
 Welcome to the Elara-Services account, this account is used for the [Elara](https://superchiefyt.xyz) Services, and is maintained by [SUPERCHIEFYT](https://github.com/SUPERCHIEFYT)
 ---
 
-<a href="https://elara.services" target="_blank">EEEEEEEEEEEEEE</a>
-
-
 #### About Me
 - My name is SUPERCHIEFYT(or CHIEF) 
 - Coding languages:
