@@ -3,6 +3,8 @@
 Welcome to the Elara-Services account, this account is used for the [Elara](https://superchiefyt.xyz) Services, and is maintained by [SUPERCHIEFYT](https://github.com/SUPERCHIEFYT)
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elara-Discord-Bots&label=Profile%20views&color=0e75b6&style=flat" alt="Elara-Discord-Bots" /> - Blame <a href="https://github.com/ValAlpha">ValAlpha</a> </p>
+
 #### About Me
 - My name is SUPERCHIEFYT(or CHIEF) 
 - Coding languages:
