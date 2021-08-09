@@ -9,7 +9,7 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 - My name is SUPERCHIEFYT(or CHIEF) 
 - Coding languages:
 - I know: JavaScript, TypeScript, HTML
-- Partly know: C#, Java, Python, GO, Lua
+- Partly know: C#, Java, Python, GO, Lua, Ruby
 
 ---
 
@@ -32,8 +32,7 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [<img align="left" width="22px" title="Elara Services | Website" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/Elara.png?raw=true"/>][services]
 [<img align="left" width="22px" title="ModBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/ModBot.png?raw=true"/>][ModBot]
 [<img align="left" width="22px" title="Elara Services | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:services]
-[<img align="left" width="22px" title="Elara Hook | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:hook]
-[<img align="left" width="22px" title="Great-Commando | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:great]
+[<img align="left" width="22px" title="Discord Hook | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:hook]
 
 <br />
 
@@ -41,17 +40,13 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 
 ### Projects I help with 
 [<img align="left" width="22px" title="MarksBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/MarksBot.png?raw=true"/>][pro:mb]
-[<img align="left" width="22px" title="GreenBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/GreenBot.png?raw=true"/>][pro:gb]
 
 <br />
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Elara-Discord-Bots&theme=cobalt&show_icons=true&count_private=true&hide_border=true" />
-
 [npm:services]: https://npmjs.com/package/elara-services
-[npm:hook]: https://npmjs.com/package/elara-hook
-[npm:great]: https://npmjs.com/package/great-commando
+[npm:hook]: https://npmjs.com/package/discord-hook
 
 
 [ModBot]: https://mod.superchiefyt.xyz
@@ -62,4 +57,3 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [Discord]: https://superchiefyt.xyz/support
 [services]: https://my.elara.services
 [pro:mb]: https://marksbot.mwserver.site
-[pro:gb]: https://greenbot.mwserver.site
