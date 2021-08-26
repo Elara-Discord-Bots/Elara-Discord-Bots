@@ -27,9 +27,9 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 ---
 
 ### My Projects 
-[<img align="left" width="22px" title="Elara | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/Elara.png?raw=true"/>][website]
-[<img align="left" width="22px" title="Elara 2 | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/Elara_Beta.png?raw=true"/>][website]
-[<img align="left" width="22px" title="Elara Services | Website" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/Elara.png?raw=true"/>][services]
+[<img align="left" width="22px" title="Elara | Discord Bot" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][website]
+[<img align="left" width="22px" title="Elara 2 | Discord Bot" src="https://cdn.superchiefyt.xyz/d/icons/Elara_Beta.png"/>][website]
+[<img align="left" width="22px" title="Elara Services | Website" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][services]
 [<img align="left" width="22px" title="ModBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/ModBot.png?raw=true"/>][ModBot]
 [<img align="left" width="22px" title="Elara Services | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:services]
 [<img align="left" width="22px" title="Discord Hook | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:hook]
