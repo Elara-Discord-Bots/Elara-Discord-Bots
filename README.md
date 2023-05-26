@@ -7,12 +7,15 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 
 #### About Me
 - My name is SUPERCHIEFYT(or CHIEF) 
-- Coding languages:
-- I know: JavaScript, TypeScript, HTML
-- Partly know: C#, Java, Python, GO, Lua, Ruby
+- Coding languages:<br>
+➡ I know: JavaScript, TypeScript, HTML<br>
+➡ Partly know: C#, Java, Python, GO, Lua, Ruby
+
+- Databases<br>
+➡ I know: MongoDB, SQlite<br>
+➡ Partly know: PostgreSQL, Redis 
 
 ---
-
 
 ### Media:
 
@@ -30,7 +33,6 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [<img align="left" width="22px" title="Elara | Discord Bot" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][website]
 [<img align="left" width="22px" title="Elara 2 | Discord Bot" src="https://cdn.superchiefyt.xyz/d/icons/Elara_Beta.png"/>][website]
 [<img align="left" width="22px" title="Elara Services | Website" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][services]
-[<img align="left" width="22px" title="ModBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/ModBot.png?raw=true"/>][ModBot]
 [<img align="left" width="22px" title="Elara Services | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:services]
 [<img align="left" width="22px" title="Discord Hook | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:hook]
 
@@ -48,8 +50,6 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 [npm:services]: https://npmjs.com/package/elara-services
 [npm:hook]: https://npmjs.com/package/discord-hook
 
-
-[ModBot]: https://mod.superchiefyt.xyz
 [website]: https://superchiefyt.xyz
 [twitterElara]: https://twitter.com/ElaraBot
 [twitterSuper]: https://twitter.com/SUPERCHIEFYT
