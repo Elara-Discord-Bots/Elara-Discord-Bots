@@ -25,7 +25,7 @@ Using `mongodb`, `mongoose`, `prisma` to interact with `MongoDB`
 ### What projects have I done?
 
 > Current Projects:
-- [Elara](https://top.gg/bot/455166272339181589) (`2018-now`) <details><summary>Extra Details (`Owner/Dev`)</summary>Elara is a logging, moderation, suggestions, welcome/leave messages, join roles, selfroles(reaction roles), utility and general helper bot.<br>The main bot's main focus is logging, it's the most rebust and fully customizable logging bot out there. </details>
+- [Elara](https://top.gg/bot/455166272339181589) (`2018-now`) <details><summary>Extra Details (`Owner/Dev`)</summary>Elara is a logging, moderation, auto responders, custom commands, suggestions, welcome/leave messages, join roles, selfroles(reaction roles), utility and general helper bot.<br>The main bot's main focus is logging, it's the most rebust and fully customizable logging bot out there. </details>
 - [Aurora](https://top.gg/bot/946514911113142342) (`2022-now`) <details><summary>Extra Details (`Owner/Dev`)</summary>Aurora is a fun, per-server currency, reminders, todos, giveaways, games and utility bot.<br>As of (`December 1st 2023`) it serves +250 communities.</details>
 - [RoCord](https://patreon.com/elaraservices) (`2019-now`) <details><summary>Extra Details (`Owner/Dev`)</summary>RoCord is a premium Roblox verification bot<br>It handles Roblox verification for multiple large Discord communities.<br>As of (`December 1st 2023`) the bot has more than +31,000 users Verified with the bot.</details>
 - [Jonin](https://top.gg/bot/662517805983334416) (`2022-now`) <details><summary>Extra Details (`Secondary Dev`)</summary>Jonin is a fun, utility and anime bot.<br>As of (`December 1st 2023`) the bot currently serves +680 Discord communities.</details>
