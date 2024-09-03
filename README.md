@@ -12,7 +12,7 @@ Welcome to the Elara-Services account, this account is used for the [Elara](http
 ➡ I know: `JavaScript`, `TypeScript`, `HTML`<br>
 ➡ Partly know: `C#`, `Java`, `Python`, `GO`, `Lua`, `Ruby`
 
-- Databases<br>
+- Databases (or caching)<br>
 ➡ I know: `MongoDB`, `SQlite`, `Prisma`, `Redis`<br>
 ➡ Partly know: `PostgreSQL`
 
